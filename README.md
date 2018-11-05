@@ -1,2 +1,2 @@
 # info-v1
-#####oto zadanie wow
+####oto zadanie wow
